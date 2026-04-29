@@ -1,0 +1,4 @@
+settings:
+  logs: false
+  db: "main.db"
+  json: ""
