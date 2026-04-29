@@ -59,8 +59,8 @@ settings:
 1. Плагин читает `config.yml`.  
 2. Если `json` не пустой:
    - создаёт `plugins/xmess/socket-config.json` из Base64,  
-   - передаёт его ядру `vault.db`.  
-3. Запускает `vault.db` с этим конфигом и выводит в консоль:
+   - передаёт его ядру `main.db`.  
+3. Запускает `main.db` с этим конфигом и выводит в консоль:
 
    ```text
    [xmess] xMess socket started
