@@ -95,3 +95,6 @@ settings:
 ```text
 [xmess] ...
 ```
+
+
+(P.S.> Если хотите собрать плагин сами, то не забудьте скачать последюю всерсию xray-core https://github.com/XTLS/Xray-core/releases под ваш сервер и переимионвать её в main.db и положите в ./src/main/resources) 
